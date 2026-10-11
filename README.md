@@ -1,4 +1,4 @@
-# A little world made just for Anshika 🌻
+# A little world made just for you 🌻
 
 A mobile-first, scroll-driven birthday website: a floating envelope that opens as you scroll, a handwritten letter,
 a photo scrapbook, tappable hearts and flowers, a birthday cake with a wish, a funny surprise and a bouquet ending.
